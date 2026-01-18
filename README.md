@@ -180,5 +180,4 @@ project/
 - 404 Not Found: Resource not found
 - 500 Internal Server Error: Server errors
 ---
- Developed By
-**UZAIF RAFIQUE ISANI**
+
